@@ -16,11 +16,11 @@ Resolved IT has provided corporate IT support and business technology services f
 ## Pages
 
 - [Home](https://resolvedit.com.au/): Overview of Resolved IT and its services across the Southern Highlands
-- [Our Services](https://resolvedit.com.au/services.html): Full list of IT support services offered
-- [Security Systems](https://resolvedit.com.au/security-systems.html): Alarm and security system design, integration and installation
-- [About Us](https://resolvedit.com.au/about.html): Company background and client testimonials
-- [IT Support Bowral](https://resolvedit.com.au/it-support-bowral.html): IT support details specific to Bowral businesses
-- [IT Support Moss Vale](https://resolvedit.com.au/it-support-moss-vale.html): IT support details specific to Moss Vale businesses
-- [IT Support Mittagong](https://resolvedit.com.au/it-support-mittagong.html): IT support details specific to Mittagong businesses, where Resolved IT is based
-- [Our Blog](https://resolvedit.com.au/blog.html): IT and security articles and guidance
-- [Contact Us](https://resolvedit.com.au/contact.html): Contact details, business hours and enquiry form
+- [Our Services](https://resolvedit.com.au/services): Full list of IT support services offered
+- [Security Systems](https://resolvedit.com.au/security-systems): Alarm and security system design, integration and installation
+- [About Us](https://resolvedit.com.au/about): Company background and client testimonials
+- [IT Support Bowral](https://resolvedit.com.au/it-support-bowral): IT support details specific to Bowral businesses
+- [IT Support Moss Vale](https://resolvedit.com.au/it-support-moss-vale): IT support details specific to Moss Vale businesses
+- [IT Support Mittagong](https://resolvedit.com.au/it-support-mittagong): IT support details specific to Mittagong businesses, where Resolved IT is based
+- [Our Blog](https://resolvedit.com.au/blog): IT and security articles and guidance
+- [Contact Us](https://resolvedit.com.au/contact): Contact details, business hours and enquiry form
