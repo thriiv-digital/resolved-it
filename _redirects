@@ -1,0 +1,13 @@
+# Redirects from the old WordPress site's URL structure to the new static site.
+# Cloudflare Pages reads this file automatically from the project root.
+
+/it-support-services/            /services.html            301
+/it-support-services              /services.html            301
+/security-systems-southern-highlands/   /security-systems.html   301
+/security-systems-southern-highlands    /security-systems.html   301
+/about-our-company/              /about.html                301
+/about-our-company                /about.html                301
+/our-blog/*                      /blog.html                 301
+/our-blog                         /blog.html                 301
+/contact-us/                     /contact.html              301
+/contact-us                       /contact.html              301
